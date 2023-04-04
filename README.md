@@ -29,17 +29,17 @@
   <tr>         
       <td align="center"><a href="https://github.com/Suanna01">
         <img src="https://avatars.githubusercontent.com/u/86403488?v=4" width="100px;" alt=""/><br /><sub>
-        <b>❤️성원이티❤️</b><br>
+        <b>❤️성원이니❤️</b><br>
         <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br />
      </td>         
       <td align="center"><a href="https://github.com/leejw-lu">
         <img src="https://avatars.githubusercontent.com/u/61766218?v=4" width="100px;" alt=""/><br /><sub>
-        <b>🧡지우이티🧡</b><br>
+        <b>🧡지우이니🧡</b><br>
         <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br />
      </td>         
       <td align="center"><a href="https://github.com/plum-king">
         <img src="https://avatars.githubusercontent.com/u/77599304?v=4" width="100px;" alt=""/><br /><sub>
-        <b>💛지수이티💛</b><br>
+        <b>💛지수이니💛</b><br>
         <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br />
      </td>
   </tr>
