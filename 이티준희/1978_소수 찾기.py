@@ -7,12 +7,9 @@
 결과 - 입력2의 자연수 중 소수의 개수 출력
 '''
 
-#입력 받는 값 여러 개 -> map 함수
-
-
 n = int(input("입력 : \n"))
 
-num = list(map (int, input().split()))  # 자료형, 함수 (.split() 공백으로 구분)
+num = list(map (int, input().split()))  # 입력 받는 값 여러 개 -> map 함수 : 자료형, 함수 (.split() 공백으로 구분)
 
 result = 0 # 입력한 자연수 중 소수의 개수 
 
