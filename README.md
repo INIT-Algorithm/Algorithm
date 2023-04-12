@@ -72,7 +72,7 @@
       <td align="center"><a href="https://github.com/ziy00n">
         <img src="https://avatars.githubusercontent.com/u/80970422?v=4" width="100px;" alt=""/><br /><sub>
         <b>🖤지윤이티🖤</b><br>
-        <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/5"/></sub></a><br />
+        <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/10"/></sub></a><br />
      </td>         
   </tr>
 </table><br />
