@@ -14,7 +14,7 @@
 ## ☑️ 참여방법
 오프라인 : 목요일 오후 1시 성신여대
 
-온라인 : 목요일 오후 1시트구글미트
+온라인 : 목요일 오후 1시 구글미트
 
 ## ☑️ Commit 규칙
 #<매주 생성되는 해당 주차의 과제 공지 이슈 번호> : <백준문제번호>_<백준문제이름>
@@ -62,7 +62,7 @@
       <td align="center"><a href="https://github.com/yjhss">
         <img src="https://avatars.githubusercontent.com/u/113293370?v=4" width="100px;" alt=""/><br /><sub>
         <b>💙유진이티💙</b><br>
-        <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br />
+        <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/10"/></sub></a><br />
      </td>         
       <td align="center"><a href="https://github.com/SeongJoonhee">
         <img src="https://avatars.githubusercontent.com/u/98799034?v=4" width="100px;" alt=""/><br /><sub>
@@ -72,7 +72,7 @@
       <td align="center"><a href="https://github.com/ziy00n">
         <img src="https://avatars.githubusercontent.com/u/80970422?v=4" width="100px;" alt=""/><br /><sub>
         <b>🖤지윤이티🖤</b><br>
-        <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br />
+        <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/5"/></sub></a><br />
      </td>         
   </tr>
 </table><br />
