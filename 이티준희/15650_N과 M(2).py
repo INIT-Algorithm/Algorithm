@@ -13,10 +13,12 @@
 수열은 사전 순으로 증가하는 순서로 출력해야 한다.
 
 '''
-import itertools
 
+
+'''
+#feedback ) combinations 만 사용해도 풀이 가능
+from itertools 
 n,m = map(int,input().split())
-
 num = itertools.combinations([i for i in range(1,n+1)],m)
 
 for i in num :
@@ -27,3 +29,17 @@ for i in num :
             #map k의 요소들을 문자열로 반환
             #join 리스트 요소를 문자열로 연결
             #"  "로 요소 사이에 구분자
+'''
+from itertools import combinations  
+ 
+n,m = map(int,input().split())
+
+arr = []  
+for i in range(1,n+1):
+		arr.append(i)
+
+for i in combinations(arr,m):  
+		for j in i:
+				print(j, end=' ')
+		print()
+
