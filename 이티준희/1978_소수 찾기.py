@@ -7,7 +7,8 @@
 결과 - 입력2의 자연수 중 소수의 개수 출력
 '''
 
-n = int(input("입력 : \n"))
+n = int(input())
+#feedback ) n = int(input("입력 : \n")) -> input 내부에 추가적인 멘트 작성 x
 
 num = list(map (int, input().split()))  # 입력 받는 값 여러 개 -> map 함수 : 자료형, 함수 (.split() 공백으로 구분)
 
@@ -25,7 +26,9 @@ for i in num : # 입력 받은 수들을 소수 확인 대상 i로 설정
     if cnt == 1 : # 약수의 개수 1개
         result += 1  # 소수 개수 추가
 
-print ("출력 : ", result) # 출력 : 입력 자연수 중 소수의 개수
+print (result) # 출력 : 입력 자연수 중 소수의 개수
+
+#feedback ) print ("출력 : ", result) -> 출력시 추가적인 멘트 x
 
 
 
