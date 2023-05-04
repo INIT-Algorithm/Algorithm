@@ -35,12 +35,15 @@ N은 50보다 작거나 같다.
 
 #익명 함수 호출을 위한 lambda / 정렬을 위한 sort 사용 가능
 
-N = int(input())
+import sys
+
+#N = int(input())
+N = int((sys.stdin.readline()))
 
 a = []
 
 for i in range(N) :
-    a.append(input())
+    a.append(sys.stdin.readline())
 
 def sum (x) :
     sum = 0
