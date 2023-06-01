@@ -32,7 +32,7 @@ by 2번 :: (3,5) (6,7) 회의 2개
 '''
 
 
-### 런타임 에러
+### 런타임 에러(23-05-30) -> 시간 정렬 순서 변경함 (23-06-01)
 
 import sys
 N = int(sys.stdin.readline)
@@ -47,8 +47,8 @@ for _ in range(N):
   start, end = map(int, sys.stdin.readline().split())
   time.append([start, end])
 
-time = sorted(time, key = lambda time: time[0]) # 시작 시간 sort
 time = sorted(time, key = lambda time: time[1]) # 종료 시간 sort
+time = sorted(time, key = lambda time: time[0]) # 시작 시간 sort
 
 final = 0 # 마지막 회의 시간
 
