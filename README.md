@@ -42,37 +42,37 @@
       <td align="center"><a href="https://github.com/Suanna01">
         <img src="https://avatars.githubusercontent.com/u/86403488?v=4" width="100px;" alt=""/><br /><sub>
         <b>❤️성원이니❤️</b><br>
-        <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/80"/></sub></a><br />
+        <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/90"/></sub></a><br />
      </td>         
       <td align="center"><a href="https://github.com/plum-king">
         <img src="https://avatars.githubusercontent.com/u/77599304?v=4" width="100px;" alt=""/><br /><sub>
         <b>🧡지수이니🧡</b><br>
-        <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/80"/></sub></a><br />
+        <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/90"/></sub></a><br />
      </td>
       <td align="center"><a href="https://github.com/leejw-lu">
         <img src="https://avatars.githubusercontent.com/u/61766218?v=4" width="100px;" alt=""/><br /><sub>
         <b>💛지우이니💛</b><br>
-        <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/80"/></sub></a><br />
+        <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/90"/></sub></a><br />
      </td>      
       <td align="center"><a href="https://github.com/yewonahn">
         <img src="https://avatars.githubusercontent.com/u/78153914?v=4" width="100px;" alt=""/><br /><sub>
         <b>💚예원이티💚</b><br>
-        <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/80"/></sub></a><br />
+        <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/90"/></sub></a><br />
      </td>     
       <td align="center"><a href="https://github.com/yjhss">
         <img src="https://avatars.githubusercontent.com/u/113293370?v=4" width="100px;" alt=""/><br /><sub>
         <b>💙유진이티💙</b><br>
-        <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/80"/></sub></a><br />
+        <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/90"/></sub></a><br />
      </td>         
       <td align="center"><a href="https://github.com/SeongJoonhee">
         <img src="https://avatars.githubusercontent.com/u/98799034?v=4" width="100px;" alt=""/><br /><sub>
         <b>💜준희이티💜</b><br>
-        <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/80"/></sub></a><br />
+        <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/90"/></sub></a><br />
      </td>         
       <td align="center"><a href="https://github.com/ziy00n">
         <img src="https://avatars.githubusercontent.com/u/80970422?v=4" width="100px;" alt=""/><br /><sub>
         <b>🖤지윤이티🖤</b><br>
-        <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/80"/></sub></a><br />
+        <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/90"/></sub></a><br />
      </td>         
   </tr>
 </table><br />
