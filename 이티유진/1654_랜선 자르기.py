@@ -5,22 +5,18 @@ K, N = map(int, input().split())
 lan = [int(sys.stdin.readline()) for _ in range(K)]
 
 def binary_search(start, end, N):
-    start = 1 
-    end = max(lan)
-    
-    while start <= end: 
-        mid = (start + end) // 2 
+    result = 0  
+    while start <= end:
+        mid = (start + end) // 2
+        lines = sum([(i // mid) for i in lan]) 
 
-    lines = [(i//mid) for i in lan]
-   
-        
-    if lines == N:
-        return mid
-    elif lines <  N: 
-        start = mid + 1
-    else:
-        end = mid - 1
+        if lines >= N: 
+            result = mid
+            start = mid + 1
+        else:
+            end = mid - 1
 
-    print(end)
+    return result
 
-binary_search(lan, N)
+answer = binary_search(1, max(lan), N)
+print(answer)
