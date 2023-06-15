@@ -20,7 +20,8 @@ import sys
 import string
 
 sys.setrecursionlimit(100000) #재귀
-input=sys.stdin.readline()
+# input=sys.stdin.readline() -> 한 줄 단위 입력
+input=sys.stdin.readline 
 
 N = int(input())
 matrix = [list(input().rstrip()) for i in range(N)]
@@ -39,9 +40,7 @@ def dfs(x,y) :
     for i in range(4) : #상하좌우 
         new_x = x + move_x[i]
         new_y = y + move_y[i]
-        if {(0 <= new_x <= N - 1) 
-            and (0 <= new_y <= N - 1) 
-            and (visited[new_x][new_y] == False)}:
+        if (0 <= new_x <= N - 1) and (0 <= new_y <= N - 1) and (visited[new_x][new_y] == False):
             if color == matrix[new_x][new_y] :
                 dfs(new_x,new_y)
 
@@ -59,7 +58,7 @@ noRG = 0
 for x in range(N) : #적록색약 기준으로 색 변경
     for y in range(N) :
         if matrix[x][y] == 'R' or matrix[x][y] == 'G' :
-            matrix[x][y] == 'g'
+            matrix[x][y] = 'g'
 
 visited = [[0]*N  for i in range(N)] #방문횟수 초기화
 for x in range(N) :
