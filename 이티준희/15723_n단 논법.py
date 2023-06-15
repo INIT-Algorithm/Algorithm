@@ -18,7 +18,7 @@ m개의 줄에 걸쳐 각 줄에 결론이 참인지 거짓인지
 #런타임 에러 발생
 
 import sys
-input = sys.stdin.readline()
+input = sys.stdin.readline
 
 N = int(input())
 graph = [[0] * 26  for i in range(26)]  
@@ -32,9 +32,9 @@ for i in range(N) :
     a, b = map(order.index, input().strip().split(" is "))
     graph[a][b] = 1
 
-for i in range(N) :
-    for j in range(N) :
-        for k in range(N) :
+for i in range(26) :
+    for j in range(26) :
+        for k in range(26) :
             if graph[j][k] < graph[j][i] + graph[i][k] :
                 graph[j][k] = graph[j][k]
             else :
